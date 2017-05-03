@@ -1,0 +1,10 @@
+.btn {
+    float: left;
+    width: 25%;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, .3);
+    box-sizing: border-box;
+    font-size: 32px;
+}
